@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player()
+comment2.params=
+comment2.target=void\ checkWin()
+comment2.text=\r\n\ checkWin\ checks\ if\ the\ player\ is\ touching\ the\ winning\ space\ and\ tells\ \r\n\ the\ player\ he\ is\ the\ winning\ by\ displaying\ text\ that\ says\ "you\ are\ \r\n\ a\ champion"\ and\ stops\ the\ program\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ movement()
+comment3.text=\r\n\ movement\ lets\ the\ player\ move\ by\ first\ checking\ if\ a\ certain\ key\ is\ pressed\ \r\n\ then\ if\ there\ is\ not\ a\ wall\ in\ front\ of\ the\ player\ and\ if\ both\ of\ those\ are\ true\ then\ you\ are\ able\r\n\ to\ move\ forward\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=boolean\ canMoveForward()
+comment4.text=\r\n\ canMoveForward\ checks\ if\ there\ is\ a\ wall\ infront\ of\ the\ player\ in\r\n\ whatever\ direction\ it\ is\ facing\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ a\ boolean\ that\ decides\ whether\ or\ not\ the\ player\ can\ move\ forward\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=6
